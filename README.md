@@ -35,7 +35,7 @@ Tools: Postman (for API testing)
 bash
 Copy
 Edit
-git clone https://github.com/your-username/crud-sql-app.git
+git clone https://github.com/ankitdoi--coder/crud-sql-app.git
 cd crud-sql-app
 2. Set Up MySQL Database
 Create a database in MySQL:
